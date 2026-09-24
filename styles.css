@@ -3,6 +3,9 @@
 	border:1px solid black;
 	cell-padding:1px;
 }
+td{
+	cell-padding:1px;
+}
 .t31{
 	background-color:green;
 }
