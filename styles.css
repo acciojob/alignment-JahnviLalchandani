@@ -3,7 +3,7 @@
 	border:1px solid black;
 	cell-padding:1px;
 }
-td{
+tr,td{
 	cell-padding:1px;
 }
 .t31{
