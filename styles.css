@@ -1,5 +1,11 @@
 /*  your css code here. If applicable */
-#tale-1,#table-2,#table3{
+#table-1,#table-2,#table3{
 	border:1px solid black;
 	cell-padding:1px;
+}
+.t31{
+	background-color:green;
+}
+.t33{
+	background-color:blue;
 }
